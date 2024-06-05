@@ -1,0 +1,15 @@
+sprite=0
+stat-hp=10.000000
+stat-max_hp=10.000000
+stat-max_hpw=10.000000
+stat-attack=2.000000
+stat-max_attackw=2.000000
+stat-defense=2.000000
+stat-defensew=2.000000
+stat-speed=1000.000000
+stat-max_speedw=1000.000000
+stat-item=0
+lvl-level=0
+lvl-xp=0
+lvl-xp_next=10
+lvl-old=0
